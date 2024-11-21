@@ -8,6 +8,7 @@
 #     resultado = numero1 + numero2 + numero3
 #     return resultado
 
+# -------
 # minha_soma = fsomar(7.2,4,8)
 # print(minha_soma)
 
@@ -18,6 +19,7 @@
 # tempf = converter_temp(10.52)
 # print(tempf)
 
+# -------
 # Define a função converter_temp que recebe uma lista de temperaturas em Celsius
 from typing import List
 def converter_temp(temperaturas: list[float]) -> list: 
